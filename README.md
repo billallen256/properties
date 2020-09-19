@@ -12,3 +12,5 @@ style = line
 As you can see, the only reserved characters are newline (`\n`) and equals (`=`). Leading and trailing whitespace is stripped from all keys and values, leaving you with a familiar `map[string]string` type that can be used as such.
 
 [More docs on pkg.go.dev](https://pkg.go.dev/github.com/gershwinlabs/properties)
+
+[Package report card](https://goreportcard.com/report/github.com/gershwinlabs/properties)
